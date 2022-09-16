@@ -14,6 +14,6 @@ docker-compose up -d
 
 <img src="https://cosmoslin.oss-cn-chengdu.aliyuncs.com/img2/image-20220916172254753.png" alt="image-20220916172254753" style="zoom:67%;" />
 
-参考环境搭建：
+参考环境搭建：  
 https://github.com/mikechernev/dockerised-php  
 https://tttang.com/archive/1720/
